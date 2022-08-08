@@ -3,3 +3,6 @@ WIP
 
 # INSTALL
 use "pip install -r req.txt"
+
+# USE
+python3 
